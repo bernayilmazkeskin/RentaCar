@@ -1,0 +1,15 @@
+C:\Users\nsbr1\Desktop\C# Lesson\Galeri\RentaCar\bin\Debug\RentaCar.exe.config
+C:\Users\nsbr1\Desktop\C# Lesson\Galeri\RentaCar\bin\Debug\RentaCar.exe
+C:\Users\nsbr1\Desktop\C# Lesson\Galeri\RentaCar\bin\Debug\RentaCar.pdb
+C:\Users\nsbr1\Desktop\C# Lesson\Galeri\RentaCar\bin\Debug\EntityFramework.dll
+C:\Users\nsbr1\Desktop\C# Lesson\Galeri\RentaCar\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nsbr1\Desktop\C# Lesson\Galeri\RentaCar\bin\Debug\EntityFramework.xml
+C:\Users\nsbr1\Desktop\C# Lesson\Galeri\RentaCar\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nsbr1\Desktop\C# Lesson\Galeri\RentaCar\obj\Debug\RentaCar.csproj.AssemblyReference.cache
+C:\Users\nsbr1\Desktop\C# Lesson\Galeri\RentaCar\obj\Debug\RentaCar.Form1.resources
+C:\Users\nsbr1\Desktop\C# Lesson\Galeri\RentaCar\obj\Debug\RentaCar.csproj.GenerateResource.cache
+C:\Users\nsbr1\Desktop\C# Lesson\Galeri\RentaCar\obj\Debug\RentaCar.csproj.CoreCompileInputs.cache
+C:\Users\nsbr1\Desktop\C# Lesson\Galeri\RentaCar\obj\Debug\RentaCar.csproj.Up2Date
+C:\Users\nsbr1\Desktop\C# Lesson\Galeri\RentaCar\obj\Debug\RentaCar.exe
+C:\Users\nsbr1\Desktop\C# Lesson\Galeri\RentaCar\obj\Debug\RentaCar.pdb
+C:\Users\nsbr1\Desktop\C# Lesson\Galeri\RentaCar\obj\Debug\RentaCar.Properties.Resources.resources
